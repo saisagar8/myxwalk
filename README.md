@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--myxwalk--saisagar8.aem.page/
+- Live: https://main--myxwalk--saisagar8.aem.live/
 
 ## Documentation
 
